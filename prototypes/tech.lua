@@ -278,3 +278,10 @@ data:extend(
   }
 }
 )
+
+table.insert (data.raw["technology"]["military-4"].effects,
+    {
+        type = "unlock-recipe",
+        recipe = "bolter-bullet-magazine"
+    } -- Add alien cable to Alien tech.
+)
