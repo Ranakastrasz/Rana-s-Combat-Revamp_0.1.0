@@ -1,0 +1,11 @@
+
+{
+  "name": "Rana's Combat Revamp",
+  "version": "0.0.8",
+  "title": "Rana's Combat Revamp",
+  "author": "Ranakastrasz",
+  "contact": "~",
+  "homepage": "",
+  "description": "Alters balance of all warfare related things.",
+  "dependencies": ["base"]
+}
